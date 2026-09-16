@@ -33,8 +33,3 @@ Sigue estos pasos para instalar el proyecto localmente:
 git clone https://github.com/guillermomendozavi-create/laboratorio-readme.git
 cd laboratorio-readme
 npm install
-
-graph LR
-    A[Usuario] --> B[Frontend]
-    B --> C[API]
-    C --> D[(Base de datos)]
